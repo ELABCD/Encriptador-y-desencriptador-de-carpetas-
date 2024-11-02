@@ -2,7 +2,7 @@ Encriptador y Desencriptador de Carpetas
 
 Este repositorio contiene dos scripts de Python que permiten encriptar y desencriptar todos los archivos dentro de una carpeta específica. Utiliza la biblioteca cryptography para garantizar la seguridad de los datos mediante encriptación simétrica con Fernet.
 
-Funcionalidades;
+Funcionalidades:
 
     Encriptador (encriptador.py):
         Genera una clave de encriptación usando Fernet.
