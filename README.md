@@ -27,7 +27,7 @@ Uso:
         Para encriptar archivos en la carpeta Hola, asegúrate de que la carpeta existe y ejecuta el script encriptador.py.
         Para desencriptar los archivos encriptados en la misma carpeta, ejecuta el script desencriptador.py.
 
-Notas Importantes:
+Notas_Importantes:
 
     Seguridad: Mantén la clave clave.key en un lugar seguro, ya que es necesaria para desencriptar los archivos.
     Precaución: Este script eliminará los archivos originales después de encriptarlos y los archivos encriptados después de desencriptarlos. Asegúrate de tener copias de seguridad si es necesario.
